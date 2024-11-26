@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mysampal/static/css/main.d9a83476.css",
+    "main.js": "/mysampal/static/js/main.8a197a4c.js",
+    "index.html": "/mysampal/index.html",
+    "main.d9a83476.css.map": "/mysampal/static/css/main.d9a83476.css.map",
+    "main.8a197a4c.js.map": "/mysampal/static/js/main.8a197a4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9a83476.css",
+    "static/js/main.8a197a4c.js"
+  ]
+}

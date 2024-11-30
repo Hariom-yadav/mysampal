@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mysampal/static/css/main.d9a83476.css",
-    "main.js": "/mysampal/static/js/main.8a197a4c.js",
+    "main.css": "/mysampal/static/css/main.f2db617d.css",
+    "main.js": "/mysampal/static/js/main.472329fe.js",
     "index.html": "/mysampal/index.html",
-    "main.d9a83476.css.map": "/mysampal/static/css/main.d9a83476.css.map",
-    "main.8a197a4c.js.map": "/mysampal/static/js/main.8a197a4c.js.map"
+    "main.f2db617d.css.map": "/mysampal/static/css/main.f2db617d.css.map",
+    "main.472329fe.js.map": "/mysampal/static/js/main.472329fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9a83476.css",
-    "static/js/main.8a197a4c.js"
+    "static/css/main.f2db617d.css",
+    "static/js/main.472329fe.js"
   ]
 }
